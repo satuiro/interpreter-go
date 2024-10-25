@@ -23,6 +23,7 @@ func TestNextToken(t *testing.T) {
   } else {
     return false;
   }
+  return ten;
   `
 
 	tests := []struct {
