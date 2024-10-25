@@ -5,6 +5,7 @@ import (
 	"testing"
 )
 
+// This the lexer token test function
 func TestNextToken(t *testing.T) {
 	input := `let five = 5;
   let ten = 10;
