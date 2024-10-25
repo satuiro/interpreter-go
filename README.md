@@ -8,7 +8,7 @@ The interpreter is currently in its early stages of development. Implemented com
 
 - [x] Lexer - Converts source code into tokens
 - [x] Token definitions
-- [ ] Parser
+- [x] Parser
 - [ ] AST (Abstract Syntax Tree)
 - [ ] Evaluator
 - [ ] REPL
