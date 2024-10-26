@@ -44,6 +44,7 @@ const (
 )
 
 // test comment
+// comment
 var keywords = map[string]TokenType{
 	"fn":     FUNCTION,
 	"let":    LET,
